@@ -21,7 +21,7 @@ MATLAB, and cloud computing.
 
 Certificate covering Arduino programming and embedded systems fundamentals.
 
-[View Certificate](./Arduino-Programming-Embedded-Systems.pdf)
+
 
 ---
 
@@ -30,7 +30,7 @@ Certificate covering Arduino programming and embedded systems fundamentals.
 
 Certificate covering signal processing concepts and MATLAB-based applications.
 
-[View Certificate](./MATLAB-Signal-Processing.pdf)
+
 
 ---
 
@@ -39,7 +39,7 @@ Certificate covering signal processing concepts and MATLAB-based applications.
 
 Certificate covering embedded systems development using Raspberry Pi and Arduino.
 
-[View Certificate](./Embedded-Systems-Raspberry-Pi-Arduino.pdf)
+
 
 ---
 
@@ -49,7 +49,7 @@ Certificate covering embedded systems development using Raspberry Pi and Arduino
 Certification demonstrating foundational knowledge of AWS cloud concepts,
 services, security, architecture, and pricing.
 
-[View Certificate](./AWS-Certified-Cloud-Practitioner.pdf)
+
 
 ---
 
